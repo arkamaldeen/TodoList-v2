@@ -14,5 +14,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "AR Kamaldeen",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.20.1"
+  }
 }
